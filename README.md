@@ -4,7 +4,7 @@
 
 **Robotics Researcher · Quadruped Locomotion · RL & Motion Planning**
 
-[![CV](https://img.shields.io/badge/CV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mqjinwon/cv/blob/main/CV.pdf)
+[![CV](https://img.shields.io/badge/CV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mqjinwon/rendercv/blob/main/jwkim/resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mqjinwon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robotics-jinwon)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@robotminsu)
@@ -71,12 +71,12 @@ Senior Researcher at [KRM](https://www.krm.co.kr) working on quadruped robot loc
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mqjinwon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=mqjinwon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
   &nbsp;&nbsp;
   <img height="160" src="https://streak-stats.demolab.com/?user=mqjinwon&theme=transparent&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqjinwon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mqjinwon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 </p>
 
 ---
