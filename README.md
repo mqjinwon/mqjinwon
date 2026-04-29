@@ -17,7 +17,7 @@ Senior Researcher at [KRM](https://www.krm.co.kr) working on quadruped robot loc
 
 ### Experience
 
-**KRM** — Senior Researcher, Robot Research Institute `2026.01 – present`
+**KRM** — Senior Researcher, RobotLab `2026.01 – present`
 
 - Built locomotion pipeline for **FuRO** (in-house quadruped): system ID via [PACE](https://github.com/leggedrobotics/pace-sim2real) → RL-based walking controller
 - Designed and implemented full software architecture for quadruped robot platform
