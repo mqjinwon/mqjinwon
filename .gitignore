@@ -1,0 +1,33 @@
+# Claude / Anthropic
+.claude/
+.claudeignore
+CLAUDE.md
+
+# Oh-My-ClaudeCode
+.omc/
+
+# Cursor
+.cursor/
+.cursorignore
+.cursorules
+
+# Windsurf
+.windsurf/
+.windsurfrules
+
+# GitHub Copilot
+.github/copilot-instructions.md
+
+# Gemini
+GEMINI.md
+.gemini/
+
+# Aider
+.aider*
+aider.conf.yml
+
+# General AI context files
+.ai/
+.llm/
+ai_context/
+llm_context/
